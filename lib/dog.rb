@@ -8,6 +8,7 @@ class Dog
     @name 
   end 
   
-  def name 
+  def name=(nu_name) 
+    
   end 
 end 
